@@ -2,6 +2,9 @@
 
 > mozjpeg imagemin plugin
 
+## Changes
+
+Points core part which is pngquant-bin to my own repo. This is mainly used to prevent hard downloading in China area.
 
 ## Install
 
